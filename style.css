@@ -1,0 +1,40 @@
+p{
+    color: yellow;
+    background-color: brown;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: blue; 
+}
+
+.texto{
+    background-color: purple;
+}
+
+#nome{
+    background-color: blue;
+    font-weight: bold;
+    color: black;
+}
+
+.cor-de-fundo{
+    background-color: midnightblue;
+}
+
+.div-por-fora{
+    background-color: aqua;
+    display: flex;
+}
+
+.div-por-dentro{
+    background-color: red;
+    height: 50px;
+    width: 50%;
+    position: relative;
+}
+
+.texto-centralizado{
+    text-align: center;
+}

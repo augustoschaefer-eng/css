@@ -1,0 +1,20 @@
+#cor{
+    color: coral;
+}
+#fonte-tam{
+    font-size: 2rem;
+}
+#fonte-cor{
+    font-weight: 900;
+}
+#fonte-fam{
+    font-family: "Caveat", cursive;
+}
+#texto{
+    text-align: right;
+}
+html{
+    font-size: 30px;
+}
+
+

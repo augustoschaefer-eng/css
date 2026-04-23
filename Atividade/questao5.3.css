@@ -1,0 +1,7 @@
+.pricing-container{
+    background-color: grey;
+    display: flex;
+    flex: row;
+    padding: 10px;
+    margin: 40px;
+}
